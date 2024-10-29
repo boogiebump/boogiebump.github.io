@@ -1,18 +1,6 @@
 //Histats
 document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4606448&101"/>');
 
-
-///// Analytics /////
-document.write('<script async src="https://www.googletagmanager.com/gtag/js?id=G-xxxxx"></script>');
-
-window.dataLayer = window.dataLayer || [];
-function gtag() {
-  dataLayer.push(arguments);
-}
-gtag('js', new Date());
-gtag('config', 'G-xxxx');
-
-
 ///// Statcounter /////
 var sc_project=13049188; 
 var sc_invisible=1; 
