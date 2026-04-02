@@ -1,11 +1,16 @@
-document.write('<div id="floatads" style="width:100%;margin:auto; text-align:center;float:none;overflow:hidden; display:scroll;position:fixed; top:0;z-index:9999">');
-document.write('<div style="text-align:center;display:block;max-width:729px;height:auto;overflow:hidden;margin:auto">');
+//Histats
+document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4981581&101"/>');
 
-//Paste Iklan Disini
+///// Statcounter /////
+var sc_project=13049188; 
+var sc_invisible=1; 
+var sc_security="28b53553";
 
-document.write('<script type="text/javascript" src="https://boogiebump.github.io/en/banner-loading.js"><\/script>');
-
-// Batas Iklan
-
+document.write('<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>');
+document.write('<noscript>');
+document.write('<div class="statcounter">');
+document.write('<a title="Web Analytics" href="https://statcounter.com/" target="_blank">');
+document.write('<img class="statcounter" src="https://c.statcounter.com/13049188/0/28b53553/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade">');
+document.write('</a>');
 document.write('</div>');
-document.write('</div>');
+document.write('</noscript>');
