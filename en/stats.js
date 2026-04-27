@@ -4,7 +4,7 @@
 (function () {
   var img = document.createElement('img');
   img.alt = 'stats';
-  img.src = '//sstatic1.histats.com/0.gif?4853726&101';
+  img.src = '//sstatic1.histats.com/0.gif?4981581&101';
   img.style.display = 'none';
   document.head.appendChild(img);
 })();
@@ -34,21 +34,4 @@ var sc_security = "28b53553";
     </div>
   `;
   document.body.appendChild(noscript);
-})();
-
-/* =======================
-   Google Analytics (GA4)
-======================= */
-(function () {
-  var ga = document.createElement('script');
-  ga.async = true;
-  ga.src = 'https://www.googletagmanager.com/gtag/js?id=G-Q75MKXBWL7';
-  document.head.appendChild(ga);
-
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){ dataLayer.push(arguments); }
-  window.gtag = gtag;
-
-  gtag('js', new Date());
-  gtag('config', 'G-Q75MKXBWL7');
 })();
